@@ -42,7 +42,7 @@ Table 3. Loss and Dice scores of Fine-tuned Model: Encoder Frozen and Decoder Un
 
 **Figures**
 
-<img width="379" height="381" alt="image" src="https://github.com/user-attachments/assets/d1242be0-056c-4633-9143-c4dfae7dd925" />
+<img width="420" height="424" alt="image" src="https://github.com/user-attachments/assets/d1242be0-056c-4633-9143-c4dfae7dd925" />
 
 Figure 1. Image of Normalized FLAIR MRI, Ground Truth Mask, and Predicted Lesions using Baseline BraTS Model
 
