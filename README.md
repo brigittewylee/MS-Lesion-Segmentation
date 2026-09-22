@@ -74,7 +74,9 @@ Several limitations are also be attributed to lack of time:
 - Only 2 fine-coding configurations were examined (final-layer-only vs. decoder-unfrozen), no systematic hyperparameters such as number of epochs, learning weight or loss weighting was examined
 - IoU/sensitivity/specificity and data augmentations were skipped due to time/compute constraints meaning results can't fully characterize false positive/negative tradeoffs and may have contributed to the noisy epoch-to-epoch validation respectively
 
+### References:
 
+Access to the dataset used in this project can be found here: https://iacl.ece.jhu.edu/index.php?title=MSChallenge
 
 [1] https://catalog.ngc.nvidia.com/orgs/nvidia/monaitoolkit/models/monai_brats_mri_segmentation/-?_lr=1
 
