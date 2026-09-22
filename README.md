@@ -10,7 +10,7 @@ Dice scores are listed as the primary metric, per the assignment's core requirem
 Table 1. Comparison of mean baseline vs fine-tuned dice scores:
 |  Baseline  | Fine-tuned | 
 | ---------- | ---------- | 
-|   0.0907   |   0.5239   | 
+|   0.0907   |   0.3890   | 
 
 Table 2. Loss and Dice scores of Fine-tuned Model: All layers frozen except conv_final
 | Epoch | Loss   | Dice Score |
