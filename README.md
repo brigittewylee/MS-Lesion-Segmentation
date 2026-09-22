@@ -80,5 +80,3 @@ Access to the dataset used in this project can be found here: https://iacl.ece.j
 
 [1] https://catalog.ngc.nvidia.com/orgs/nvidia/monaitoolkit/models/monai_brats_mri_segmentation/-?_lr=1
 
-[2] https://iacl.ece.jhu.edu/index.php?title=MSChallenge
-
